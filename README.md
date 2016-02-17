@@ -48,7 +48,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 **Your app must meet the following technical requirements:**
 
-* **Use a database**, whether it's one we've covered in class or one you want to learn.
+- [ ] **Use a database**, whether it's one we've covered in class or one you want to learn.
 * **Build a full-stack application** by making your own back-end and your own front-end.
 * **Create a complete product**, which most likely means multiple related resources and CRUD functionality for each.
 * **Create a focused product**. Know which features are essential to build for your MVP and which to set aside for later.
