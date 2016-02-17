@@ -142,42 +142,6 @@ Project 3 presentations will start at **10:00am** on **Thursday, February 25th**
 
 ---
 
-## Instructor Groups
-
-###### Who will be my assigned instructor / DIR for this project?
-
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### Nathan
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Justin
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Travis
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Heather
-
-* TBD
-* TBD
-* TBD
-* TBD
-
----
-
 ## Feedback
 
 ###### How will I get feedback from instructors?
